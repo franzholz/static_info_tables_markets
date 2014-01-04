@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description>Static Info Tables Markets</description>
+        <type>database</type>
+        <csh_table></csh_table>
+        <labelContext type="array">
+        </labelContext>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+			<label index="static_markets.title">Markets</label>
+			<label index="static_markets.country">Country:</label>
+			<label index="static_markets.mic">MIC:</label>
+			<label index="static_markets.institution_description">Institution:</label>
+			<label index="static_markets.acronym">Acronym:</label>
+			<label index="static_markets.city">City:</label>
+			<label index="static_markets.url">URL:</label>
+        </languageKey>
+        <languageKey index="de" type="array">
+			<label index="static_markets.title">Marktplätze</label>
+			<label index="static_markets.country">Land:</label>
+			<label index="static_markets.mic">MIC:</label>
+			<label index="static_markets.institution_description">Institution:</label>
+			<label index="static_markets.acronym">Abkürzung:</label>
+			<label index="static_markets.city">Stadt:</label>
+			<label index="static_markets.url">URL:</label>
+        </languageKey>
+    </data>
+</T3locallang>
